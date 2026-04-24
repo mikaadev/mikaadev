@@ -1,7 +1,5 @@
 ### **PT-BR**
 
-##### Sou o Mikael, aluno da Infinity School!
-
 ###### Estudando:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
